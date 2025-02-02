@@ -1,0 +1,155 @@
+Name,Code_M2,Code_M1,Label
+Numeric,M2FAMNUM,M2FAMNUM,MIDUS 2 family number
+Code,SAMPLMAJ,SAMPLMAJ,Major sample identification
+Code,B1PRSEX,A1PRSEX,Respondent's sex
+Code,B1PA1,A1PA4,Physical health self-evaluated
+Code,B1PA2,A1PA5,Mental/emotional health self-evaluated
+Code,B1PA3,A1PA6,Health compared to others your age
+Numeric,B1PA4,A1PA7,Days unable to work because of health (30 days)
+Code,B1PA4A,A1PA7A,"Reason unable to work (physical, mental, combination)"
+Numeric,B1PA5,A1PA8,Days cut back work because of health (30 days)
+Code,B1PA5A,A1PA8A,"Reason cut back on work (physical, mental, combination)"
+Code,B1PA11,A1PA15,How much worry about your heart
+Code,B1PDEPDX,A1PDEPDX,Depressed Affect + Anhedonia (binary)
+Code,B1PA83,A1PA80,"Worry more, less, about same as others"
+Code,B1PA83A,A1PA80A,"Worry a lot, somewhat, little more"
+Code,B1PA84,A1PA81,Frequency of worrying (12 months)
+Code,B1PA84A,A1PA81A,How long worry lasts on days you worry
+Code,B1PA88A,A1PA85A,Restless because of worry (12 months)
+Code,B1PA88B,A1PA85B,Keyed up/on edge/nervous energy (12 months)
+Code,B1PB2,A1PB2,Age first worked for pay for 6 or more months
+Code,B1PB3A,A1PB3A,Current employment - Working
+Code,B1PB3B,A1PB3B,Current employment - Self-employed
+Code,B1PB3C,A1PB3C,Current employment - Unemployed
+Code,B1PB3D,A1PB3D,Current employment - Temporarily laid off
+Code,B1PB3E,A1PB3E,Current employment - Retired
+Code,B1PB3F,A1PB3F,Current employment - Homemaker
+Code,B1PB3G,A1PB3G,Current employment - Full-time student
+Code,B1PB3H,A1PB3H,Current employment - Part-time student
+Code,B1PB3I,A1PB3I,Current employment - Maternity or sick leave
+Code,B1PB3J,A1PB3J,Current employment - Permanently disabled
+Code,B1POCCP,A1POCCP,Respondent last occupation
+Code,B1PB19,A1PB17,Marital status currently
+Code,B1PB34A,A1PB28A,Spouse/partner current employment - Working
+Code,B1PB34B,A1PB28B,Spouse/partner current employment - Self-employed
+Code,B1PB34C,A1PB28C,Spouse/partner current employment - Unemployed
+Code,B1PB34E,A1PB28E,Spouse/partner current employment - Retired
+Code,B1PB34F,A1PB28F,Spouse/partner current employment - Homemaker
+Code,B1PB34G,A1PB28G,Spouse/partner current employment - Full-time student
+Code,B1PB34I,A1PB28I,Spouse/partner current employment - Maternity or sick leave
+Code,B1PB34J,A1PB28J,Spouse/partner current employment - Permanently disabled
+Code,B1PF6,A1SS5,Important to marry same ethnicity
+Code,B1PG1,A1PD1,Satisfied with life at present
+Code,B1PG2,A1PD2,Control over life in general at present
+Code,B1PG3,A1PD3,Satisfied with self at present
+Code,B1PG4,A1PD8,Rate contribution to others (whole life)
+Code,B1PG5,A1PD9,"Disappointed by achievement (agree, disagree)"
+Code,B1PG7,A1PD5,Worrying describes you
+Code,B1PG8,A1PD6,Curious describes you
+Code,B1SA1,A1SA1,Rate health current
+Code,B1SA4,A1SA4,Rate control over health
+Code,B1SA5,A1SA5,Rate thought/effort put into health
+Numeric,B1SSATIS,A1SSATIS,Life Satisfaction (5-item version)
+Code,B1SA6A,A1SA6A,Compare energy now to 5 years ago
+Code,B1SA6B,A1SA6B,Compare fitness now to 5 years ago
+Code,B1SA6C,A1SA6C,Compare physique/figure now to 5 years ago
+Code,B1SA6D,A1SA6D,Compare weight now to 5 years ago
+Code,B1SA8B,A1SA7B,Things I can do to reduce heart attack risk
+Code,B1SA8C,A1SA7C,Things I can do to reduce cancer risk
+Code,B1SA8D,A1SA7D,I work hard at trying to stay healthy
+Code,B1SA8F,A1SA7F,Difficult to get good medical care
+Numeric,B1SHLOCS,A1SHLOCS,Health Locus of Control - Self
+Code,B1SA9B,A1SA8B,Sudden loud noises really bother me
+Code,B1SA10A,A1SA12A,Headaches frequency (30 days)
+Code,B1SA10B,A1SA12B,Backaches frequency (30 days)
+Code,B1SA10C,A1SA12C,Sweat frequency (30 days)
+Code,B1SA10D,A1SA12D,Irritability frequency (30 days)
+Code,B1SA10E,A1SA12E,Hot flushes/flashes frequency (30 days)
+Code,B1SA10G,A1SA12G,Falling/staying sleep frequency (30 days)
+Code,B1SA11C,A1SA9C,Other lung problems ever (12 months)
+Code,B1SA11P,A1SA9P,Lupus/autoimmune disorder ever (12 months)
+Code,B1SA11T,A1SA9T,Anxiety/depression ever (12 months)
+Code,B1SA11U,A1SA9U,Alcohol/drug problem ever (12 months)
+Code,B1SA11W,A1SA9W,Chronic sleep problems ever (12 months)
+Code,B1SA11X,A1SA9X,Diabetes/high blood sugar ever (12 months)
+Code,B1SCHROX,A1SCHROX,Having Any Chronic Conditions (12 months)
+Code,B1SA12K,A1SA10K,RX anxiety/depression ever (30 days)
+Code,B1SA24A,A1SA13A,Felt so sad nothing could cheer frequency (30 days)
+Code,B1SA24B,A1SA13B,Felt nervous frequency (30 days)
+Code,B1SA24C,A1SA13C,Felt restless frequency (30 days)
+Code,B1SA24D,A1SA13D,Felt hopeless frequency (30 days)
+Code,B1SA24E,A1SA13E,Felt everything was effort frequency (30 days)
+Code,B1SA24F,A1SA13F,Felt worthless frequency (30 days)
+Code,B1SA25,A1SA14,More or less than usual negative feelings (30 days)
+Code,B1SA26B,A1SA15B,Felt good spirits frequency (30 days)
+Code,B1SA26D,A1SA15D,Felt calm and peaceful frequency (30 days)
+Code,B1SA26E,A1SA15E,Felt satisfied frequency (30 days)
+Code,B1SA26F,A1SA15F,Felt full of life frequency (30 days)
+Code,B1SA56F,A1SA39E,Exercise/movement therapy frequency (12 months)
+Code,B1SA56G,A1SA39F,Herbal therapy frequency (12 months)
+Code,B1SA56J,A1SA39I,Hypnosis frequency (12 months)
+Code,B1SA56L,A1SA39K,Massage therapy frequency (12 months)
+Code,B1SA56M,A1SA39L,Prayer/other spiritual frequency (12 months)
+Code,B1SA56R,A1SA39O,Spiritual healing by others frequency (12 months)
+Code,B1SA62G,A1SA40G,Used marijuana/hashish on own ever (12 months)
+Code,B1SA62H,A1SA40H,Used cocaine/crack on own ever (12 months)
+Code,B1SA65B,A1SA43B,Emotional problems from substance (12 months)
+Code,B1SA65C,A1SA43C,Strong desire for substance (12 months)
+Code,B1SA66A,A1SA44B,Emotional problems from drinking (12 months)
+Code,B1SA66B,A1SA44C,Desire/urge from drinking (12 months)
+Code,B1SE1KK,A1SF1R,Judge self by what I think is important
+Numeric,B1SPWBA1,A1SPWBA,Autonomy (Psychological Well-Being 3-item)
+Numeric,B1SPWBE1,A1SPWBE,Environmental Mastery (Psychological Well-Being 3-item)
+Numeric,B1SPWBG1,A1SPWBG,Personal Growth (Psychological Well-Being 3-item)
+Numeric,B1SPWBR1,A1SPWBR,Positive Relations with Others (Psychological Well-Being 3-item)
+Numeric,B1SPWBU1,A1SPWBU,Purpose in Life (Psychological Well-Being 3-item)
+Numeric,B1SPWBS1,A1SPWBS,Self-Acceptance (Psychological Well-Being 3-item)
+Code,B1SE4A,A1SF1S,Little can do to change important things
+Code,B1SE4B,A1SF1T,Helpless dealing with problems of life
+Code,B1SE4C,A1SF1U,Do just about anything I set my mind to
+Code,B1SE4D,A1SF1V,Others determine what I can and cannot do
+Code,B1SE4E,A1SF1W,What happens in life is beyond my control
+Code,B1SE4F,A1SF1X,"When really want something, find way"
+Code,B1SE4G,A1SF1Y,Many things interfere with what I want do
+Numeric,B1SCTRL,A1SCTRL,Sense of Control (Mastery + Constraints)
+Code,B1SE6N,A1SF4N,Creative describes you how well
+Code,B1SE6O,A1SF4O,Assertive describes you how well
+Code,B1SE6Q,A1SF4Q,Imaginative describes you how well
+Code,B1SE6S,A1SF4S,Calm describes you how well
+Code,B1SE6X,A1SF4X,Careless describes you how well
+Code,B1SE6Y,A1SF4Y,Broad minded describes you how well
+Code,B1SE6Z,A1SF4Z,Sympathetic describes you how well
+Code,B1SE12A,A1SF3A,Where there's a will there's a way
+Code,B1SE12B,A1SF3B,Do what can to change for better
+Code,B1SE12C,A1SF3C,"If expectation not being met, lower them"
+Code,B1SE12D,A1SF3D,"To avoid disappointments, don't set goals too high"
+Code,B1SE12E,A1SF3E,Learn meaningful from difficult situation
+Code,B1SE12F,A1SF3F,Relieved when let go of responsibilities
+Code,B1SE12G,A1SF3G,"Even when feel too much, get it all done"
+Code,B1SE12H,A1SF3H,Find different way of looking at things
+Code,B1SE12J,A1SF3J,"When problems, don't give up until solve them"
+Code,B1SE12K,A1SF3K,Rarely give up even when get tough
+Code,B1SE12L,A1SF3L,"Can't get want, assume goals unrealistic"
+Code,B1SE12N,A1SF3N,Find positive even in worst situations
+Code,B1SE12O,A1SF3O,Like to make plans for future
+Code,B1SE12Q,A1SF3Q,I live one day at a time
+Code,B1SE12R,A1SF3T,Helpful to set goals for near future
+Code,B1SE12S,A1SF3U,Too many things today to worry about tomorrow
+Code,B1SE12Z,A1SF3GG,Asking others comes naturally for me
+Numeric,B1SPERSI,A1SPERSI,Persist in Goal Striving (Primary Control)
+Numeric,B1SREAPP,A1SREAPP,Positive Reappraisal (Secondary Control)
+Numeric,B1SCHANG,A1SCHANG,Lower Aspirations (Secondary Control)
+Numeric,B1SDIREC,A1SDIREC,Self Directedness and Planning
+Numeric,B1STODAY,A1STODAY,Live for Today
+Code,B1SH16D,A1SK17D,Have something valuable to give world
+Code,B1SH16E,A1SK17E,World is becoming better place
+Code,B1SH16J,A1SK17J,People do not care about others problems
+Code,B1SH16N,A1SK17N,Believe people are kind
+Numeric,B1SSWBSI,A1SSWBSI,Social Integration (Social Well-Being)
+Numeric,B1SSWBAO,A1SSWBAO,Acceptance of Others (Social Well-Being)
+Numeric,B1SSWBSC,A1SSWBSC,Social Contribution (Social Well-Being)
+Numeric,B1SSWBSA,A1SSWBSA,Social Actualization (Social Well-Being)
+Code,B1SI6D,A1SL5D,Proud of my home
+Code,B1SN5,A1SR7,Ever been born again
+Numeric,B1SP1E,A1SS13E,Fired (times)
+Code,B1SQ4,A1ST4,Rate control over life
